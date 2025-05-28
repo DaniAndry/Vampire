@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "35754093-9e21-40f1-b442-4be7c0f192ca",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "35754093-9e21-40f1-b442-4be7c0f192ca@6c48a",
+      "displayName": "citizens_town-vamp_man_1-walk_back_00001",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "35754093-9e21-40f1-b442-4be7c0f192ca",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "35754093-9e21-40f1-b442-4be7c0f192ca@f9941",
+      "displayName": "citizens_town-vamp_man_1-walk_back_00001",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -6.5,
+        "offsetY": -5,
+        "trimX": 40,
+        "trimY": 23,
+        "width": 84,
+        "height": 176,
+        "rawWidth": 177,
+        "rawHeight": 212,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -42,
+            -88,
+            0,
+            42,
+            -88,
+            0,
+            -42,
+            88,
+            0,
+            42,
+            88,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            40,
+            189,
+            124,
+            189,
+            40,
+            13,
+            124,
+            13
+          ],
+          "nuv": [
+            0.22598870056497175,
+            0.06132075471698113,
+            0.7005649717514124,
+            0.06132075471698113,
+            0.22598870056497175,
+            0.8915094339622641,
+            0.7005649717514124,
+            0.8915094339622641
+          ],
+          "minPos": [
+            -42,
+            -88,
+            0
+          ],
+          "maxPos": [
+            42,
+            88,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "35754093-9e21-40f1-b442-4be7c0f192ca@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "35754093-9e21-40f1-b442-4be7c0f192ca@6c48a"
+  }
+}
